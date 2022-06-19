@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>http://localhost/_youtube/dynamic_sitemap/</loc>
+        <changefreq>daily</changefreq>
+
+    </sitemap>
+    <sitemap>
+        <loc>http://localhost/_youtube/dynamic_sitemap/page-1</loc>
+        <lastmod>2022-06-16T09:00:50+00:00</lastmod>
+    </sitemap>
+</sitemapindex>
